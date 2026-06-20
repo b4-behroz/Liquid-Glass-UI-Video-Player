@@ -11,16 +11,16 @@ An ultra-premium, cinematic HTML5 video player meticulously engineered with pure
 ## 📸 Interface Showcases
 
 ### 🔮 Main Interface & Fluid Overlay
-![Main Interface Overview](Main Player.png)
+![Main Interface Overview](Main%20Player.png)
 
 ### 🔊 Vertical Capsule Volume Hub
-![Custom Capsule Volume Slider](Fullscreen Player.png)
+![Custom Capsule Volume Slider](Fullscreen%20Player.png)
 
 ### ⚙️ Premium Settings Control Panel
-![Glassmorphic Settings Flyout Menu](Main Controls.png)
+![Glassmorphic Settings Flyout Menu](Main%20Controls.png)
 
 ### 🖥️ Immersive Cinematic Fullscreen Mode
-![Immersive Cinematic Mode](Settings Controls.png)
+![Immersive Cinematic Mode](Settings%20Controls.png)
 
 ---
 
