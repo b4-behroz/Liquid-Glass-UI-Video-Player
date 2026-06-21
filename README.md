@@ -2,7 +2,6 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/b4-behroz/Liquid-Glass-UI-Video-Player?style=for-the-badge)](https://github.com/b4-behroz/Liquid-Glass-UI-Video-Player/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/b4-behroz/Liquid-Glass-UI-Video-Player?style=for-the-badge)](https://github.com/b4-behroz/Liquid-Glass-UI-Video-Player/network/members)
-[![License](https://img.shields.io/github/license/b4-behroz/Liquid-Glass-UI-Video-Player?style=for-the-badge)](LICENSE)
 
 An ultra-premium, cinematic HTML5 video player meticulously engineered with pure HTML, CSS, and modern JavaScript. Moving far beyond rigid traditional layouts, this player introduces an organic **Liquid Glass Architecture**—utilizing advanced SVG fractal noise displacement and custom physics-based lighting states to deliver an immersive glassmorphic interface.
 
@@ -13,13 +12,13 @@ An ultra-premium, cinematic HTML5 video player meticulously engineered with pure
 ### 🔮 Main Interface & Fluid Overlay
 ![Main Interface Overview](Main%20Player.png)
 
-### 🔊 Vertical Capsule Volume Hub
+### 🖥️ Immersive Cinematic Fullscreen Mode
 ![Custom Capsule Volume Slider](Fullscreen%20Player.png)
 
-### ⚙️ Premium Settings Control Panel
+### 🔊 Vertical Capsule Volume Hub
 ![Glassmorphic Settings Flyout Menu](Main%20Controls.png)
 
-### 🖥️ Immersive Cinematic Fullscreen Mode
+### ⚙️ Premium Settings Control Panel
 ![Immersive Cinematic Mode](Settings%20Controls.png)
 
 ---
